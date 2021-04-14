@@ -6,14 +6,14 @@ markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
-baseurl: /treeriver
-domain_name: "http://treeriver.github.io"
+baseurl: ""
+domain_name: "http://leesuha98.github.io"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: ""
-author: "Your Name"
+url: "http://leesuha98.github.io"
+author: treeriver
 
 # Disqus config
 disqus-shortname: ""
